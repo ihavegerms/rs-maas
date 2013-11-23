@@ -13,5 +13,4 @@ EOL
 
 yum update -y
 yum install -y rackspace-monitoring-agent
-
 rackspace-monitoring-agent --setup
