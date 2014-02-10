@@ -30,6 +30,7 @@ EOL
   echo "Launching agent setup.."
   echo ""
   rackspace-monitoring-agent --setup
+  exit 0
 
 else
   echo "This script was written for centos."
